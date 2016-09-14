@@ -13,3 +13,4 @@ array_walk($arr1,function($val) use(&$arr){
 });
 
 print_r($arr);
+echo 'hahaha';
